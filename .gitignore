@@ -4,3 +4,8 @@ logs
 moreinfo.csv
 astroid_danger_rating_system.egg-info
 Data_collection
+Data_transformation/test.ipynb
+Data_transformation/raw_data.csv
+Data_transformation/preprocessing.ipynb
+Data_transformation/processed_data.csv
+Astroenv
