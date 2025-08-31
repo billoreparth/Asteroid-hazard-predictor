@@ -1,0 +1,36 @@
+columns:
+  absolute_magnitude_h:
+    dtype: float64
+    allow_null: false 
+  jupiter_tisserand_invariant :
+    dtype: float64
+    allow_null: false
+  eccentricity :
+    dtype: float64
+    allow_null: false
+  inclination :
+    dtype: float64
+    allow_null: false
+  ascending_node_longitude :
+    dtype: float64
+  perihelion_distance :
+    dtype: float64
+    allow_null: false
+  perihelion_argument :
+    dtype: float64
+    allow_null: false
+  mean_anomaly :
+    dtype: float64
+    allow_null: false
+  estimated_diameter_max :
+    dtype: float64
+    allow_null: false
+  relative_velocity_kmps :
+    dtype: float64
+    allow_null: false
+  miss_distance_in_astronomical :
+    dtype: float64
+    allow_null: false
+  is_potentially_hazardous :
+    dtype: int64
+    allow_null: false

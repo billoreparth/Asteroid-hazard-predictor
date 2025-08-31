@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Asteroids</title>
+  <link rel="stylesheet" href="/static/css/visualize.css">
+</head>
+<body>
+  <header>
+    <button class="top-btn left-btn">✦</button>
+    <h1 class="title">Asteroids</h1>
+    <button class="top-btn right-btn" id="menu-btn">☰</button>
+  </header>
+
+  <!-- Sliding dashboard -->
+  <div id="dashboard" class="dashboard">
+    <div class="dash-left"></div>
+    <div class="dash-right"></div>
+  </div>
+
+  <main class="viewer">
+    <button id="prev" class="nav-btn">⟨</button>
+
+    <div class="asteroid-section">
+      <div class="glow"></div>
+      <div class="asteroid"></div>
+      <h2 id="asteroid-name" class="asteroid-name">Asteroid</h2>
+      <p id="asteroid-info" class="asteroid-info"></p>
+      <div class="mouse-icon"></div>
+    </div>
+
+    <button id="next" class="nav-btn">⟩</button>
+  </main>
+
+  <script src="/static/js/visualize.js"></script>
+</body>
+</html>

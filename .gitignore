@@ -1,0 +1,6 @@
+__pycache__
+logs
+.env
+moreinfo.csv
+astroid_danger_rating_system.egg-info
+Data_collection

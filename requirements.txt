@@ -1,0 +1,8 @@
+requests 
+pandas 
+python-dotenv
+numpy 
+scikit-learn
+pydantic
+fastapi
+pymongo
