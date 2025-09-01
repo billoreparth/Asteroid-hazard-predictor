@@ -9,3 +9,4 @@ Data_transformation/raw_data.csv
 Data_transformation/preprocessing.ipynb
 Data_transformation/processed_data.csv
 Astroenv
+Dockerfile
