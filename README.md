@@ -43,7 +43,12 @@ miss_distance_in_astronomical → How far the asteroid will pass from Earth, exp
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1919" height="866" alt="Screenshot 2025-09-01 230317" src="https://github.com/user-attachments/assets/563aacd0-b5f5-4ae1-9b80-b7b84bee5bf4" />
+
+<img width="1919" height="874" alt="Screenshot 2025-09-01 230344" src="https://github.com/user-attachments/assets/f3e2510f-4bed-4e5c-a202-b96a39a961c1" />
+
+
+<img width="1919" height="864" alt="Screenshot 2025-09-01 230408" src="https://github.com/user-attachments/assets/f22d87e1-40a5-49b9-bdd9-41b6547892dd" />
 
 
 ## Environment Variables
